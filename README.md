@@ -3,7 +3,7 @@
 A simple app, using HTML and CSS.
 
 <p align="left">
-     <a href="#">📱 Visit this Project</a><br>
+     <a href="https://zingen-karaoke-kts.netlify.app/">📱 Visit this Project</a><br>
      <a href="https://www.figma.com/design/cJotuv81y6hfCqMuDYgBnS/LP-de-produto-(Community)?node-id=3-376&p=f&t=LUD8mVuA8kJ2g4QS-0">🎨 Figma</a>
 </p>
 
